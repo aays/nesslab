@@ -226,7 +226,7 @@ fieldset[disabled] .btn-xl.active {
   }
 }
 header {
-  background-image: url('../img/chlamyEM_invert.jpg');
+  background-image: url('../img/chlamyEM.jpg');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -235,7 +235,7 @@ header {
   background-size: cover;
   -o-background-size: cover;
   text-align: center;
-  color: black;
+  color: white;
 }
 header .intro-text {
   padding-top: 100px;
@@ -243,11 +243,11 @@ header .intro-text {
 }
 header .intro-text .intro-lead-in {
   font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  /*font-style: italic;*/
+  font-style: italic;
   font-size: 22px;
   line-height: 22px;
   margin-bottom: 25px;
-  background: rgba(211,211,211,0.3);
+  /*background: rgba(211,211,211,0.3);*/
 }
 header .intro-text .intro-heading {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -264,7 +264,7 @@ header .intro-text .intro-heading {
   }
   header .intro-text .intro-lead-in {
     font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-style: italic;
+    /*font-style: italic;*/
     font-size: 40px;
     line-height: 40px;
     margin-bottom: 25px;
